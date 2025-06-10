@@ -4,7 +4,7 @@
 ### Overview
 This project explores Super Smash Bros Ultimate character performance through a mix of player outcomes and character stat data. Using R for regression and analysis, I aimed to investigate which in-game factors might influence wins in competitive matches.
 
-This was completed as an **independent study research project** in collaboration with a faculty advisor and presented in 2024 at the **PCAACA National Conference**.
+This was completed as an **independent study research project** in collaboration with a faculty advisor and presented in March 2024 at the **PCAACA National Conference**.
 
 ---
 
