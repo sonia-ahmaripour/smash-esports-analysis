@@ -34,7 +34,7 @@ To examine relationships between character attributes (for ex. speed, weight, fa
 
 ### 📉 Sample Visualization
 
-
+![Image](https://github.com/user-attachments/assets/eed0a7a1-a86d-4de4-b283-3cacf5275154)
 
 ---
 
